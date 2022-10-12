@@ -1,2 +1,1 @@
-#!/bin/bash
-3-new_owner
+3. New owner
